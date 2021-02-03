@@ -30,7 +30,27 @@
 
   Code url: [https://www.catalyzex.com/redirect?url=https://github.com/jandress94/adversarial_tshirt](https://www.catalyzex.com/redirect?url=https://github.com/jandress94/adversarial_tshirt)
 
+## Attack In the real world
+
+- [x] Adversarial t-shirt! evading person detectors in a physical world.
+
+  `Propose TPS transforms；invite a T-shirt which can not be detected by object detectors`
+
+  Paper url: [https://arxiv.org/abs/1910.11099](https://arxiv.org/abs/1910.11099)
+
+  Code url: [https://www.catalyzex.com/redirect?url=https://github.com/jandress94/adversarial_tshirt](https://www.catalyzex.com/redirect?url=https://github.com/jandress94/adversarial_tshirt)
+
+- [x] Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors
+
+  `propose a new loss function to produce patch;Print the patch on the cloth. People who wear this cloth can not be detected by object detectors in the real world`
+
+  Paper url: [https://arxiv.org/abs/1810.05206](https://arxiv.org/abs/1810.05206)
+
   
+
+
+
+
 
 
 
