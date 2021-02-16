@@ -12,7 +12,7 @@
 
   Paper url: [https://arxiv.org/abs/1809.05966](https://arxiv.org/abs/1809.05966)
 
-- [ ] Dpatch: An adversarial patch attack on object detectors. 
+- [x] Dpatch: An adversarial patch attack on object detectors. 
 
   Paper url: [https://arxiv.org/abs/1806.02299](https://arxiv.org/abs/1806.02299)
 
@@ -46,13 +46,13 @@
 
   Paper url: [https://arxiv.org/abs/1810.05206](https://arxiv.org/abs/1810.05206)
 
-  
+- [x] Fooling automated surveillance cameras: adversarial patches to attack person detection
 
+  `If you want to research producing attack patches, you should read this paper first. This Paper is a work about produce adversarial patch. Meanwhile I think this paper's codes is the best codes in all of the adversarial papers. `
 
+  Paper url: [https://arxiv.org/abs/1904.08653](https://arxiv.org/abs/1904.08653)
 
-
-
-
+  Code url: [https://www.catalyzex.com/redirect?url=https://github.com/Zhang-Jack/adversarial_yolo2](https://www.catalyzex.com/redirect?url=https://github.com/Zhang-Jack/adversarial_yolo2)
 
 
 
