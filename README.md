@@ -48,7 +48,7 @@
 
 - [x] Fooling automated surveillance cameras: adversarial patches to attack person detection
 
-  `If you want to research producing attack patches, you should read this paper first. This Paper is a work about produce adversarial patch. Meanwhile I think this paper's codes is the best codes in all of the adversarial papers. `
+  `If you want to research producing adversarial patches, you should read this paper first. This Paper are a work about producing adversarial patches. Meanwhile I think this paper's git repository is the best git repository in all of the adversarial papers. `
 
   Paper url: [https://arxiv.org/abs/1904.08653](https://arxiv.org/abs/1904.08653)
 
